@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/bpanel-footer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple footer to display chain sync progress and bcoin version",
   "main": "dist/index.js",
   "scripts": {
